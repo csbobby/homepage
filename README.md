@@ -1,2 +1,2 @@
 # Bobby's Homepage
-Bo Wu, Computer Science
+Bo Wu, Computer Science Researcher
