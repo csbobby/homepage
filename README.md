@@ -3,6 +3,8 @@ Bo Wu
 
 Columbia University
 
+Microsoft Research
+
 Chinese Academy of Sciences
 
-Social Media, Artificial Intelligent, Machine Learning
+Research Interests: Social Media, Artificial Intelligent, Machine Learning
