@@ -1,7 +1,9 @@
 # Bobby's Homepage
 Bo Wu
 
-Research Interests: Predictive Learning, Deep Learning, Social Multimedia, Computer Vision
+Research Interests: Predictive Learning, Deep Learning, Computer Vision, Social Multimedia Computing
+
+MIT-IBM Watson AI Lab
 
 Columbia University
 
