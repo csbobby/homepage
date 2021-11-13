@@ -138,3 +138,23 @@ button.navbar-toggler{
     margin-left: -3rem!important;
   }
 }
+.pic-preview{
+  cursor: pointer;
+}
+.hide-768{
+  display: block;
+}
+.show-768{
+  display: none;
+}
+@media (min-width: 768px){
+  .pic-preview img:hover{
+    box-shadow: 0px 4px 8px 4px #8a96ab
+  }
+  .hide-768{
+    display: none;
+  }
+  .show-768{
+    display: block;
+  }
+}
